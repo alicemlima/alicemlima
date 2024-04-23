@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Keyrus**
+- 🔭 I’m currently working on **IMPA AS A FULLSTACK**
 
-- 🌱 I’m currently learning **Spring and NextJS**
+- 🌱 I’m currently learning **Spring and AWS**
 
 - 📫 How to reach me **alicezfl@gmail.com**
 
